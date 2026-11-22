@@ -36,7 +36,7 @@ Quality is measured, not assumed. The first golden dataset is 200 synthetic supp
 ```bash
 cd backend
 pip install -e ".[dev]"
-export ANTHROPIC_API_KEY=sk-ant-...
+export SPECWRIGHT_API_KEY=sk-ant-...
 pytest
 uvicorn app.main:app --reload
 ```

@@ -6,7 +6,7 @@ Already done in the starter commit: repo layout, CLAUDE.md, schemas, ticket CSV 
 
 ## Session 1: the model client
 
-> Create `backend/app/llm.py`, the only module that calls the Anthropic API. Give it one function, `call_structured(model, system, user, output_model)`, that forces Claude to return data matching a Pydantic model by defining a single tool whose input_schema is the model's JSON schema and setting tool_choice to that tool. Validate the result with Pydantic and retry once on a validation error. Log model, input tokens, output tokens and latency for every call to `traces/calls.jsonl`. Add tests that mock the Anthropic client. Explain how tool use gives us structured output.
+> Create `backend/app/llm.py`, the only module that calls the Anthropic API. Give it one function, `call_structured(model, system, user, output_model)`, that creates the client with `Anthropic(api_key=settings.api_key)` and forces Claude to return data matching a Pydantic model by defining a single tool whose input_schema is the model's JSON schema and setting tool_choice to that tool. Validate the result with Pydantic and retry once on a validation error. Log model, input tokens, output tokens and latency for every call to `traces/calls.jsonl`. Add tests that mock the Anthropic client. Explain how tool use gives us structured output.
 
 ## Session 2: stage 2, synthesize
 
