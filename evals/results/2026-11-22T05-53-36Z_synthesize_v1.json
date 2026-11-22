@@ -1,0 +1,486 @@
+{
+  "dataset": "clinic_tickets_v1",
+  "prompt_version": "synthesize_v1",
+  "model": "claude-sonnet-5-5",
+  "timestamp": "2026-11-22T05-53-36Z",
+  "returned_problems": 18,
+  "noise_total": 88,
+  "latency_s": 24.5,
+  "usage": {
+    "api_calls": 1,
+    "input_tokens": 13675,
+    "output_tokens": 4077,
+    "cost_usd": 0.0681
+  },
+  "score": {
+    "found": 7,
+    "covered": 8,
+    "total_planted": 8,
+    "rank_order_matches": false,
+    "noise_tickets_cited": [
+      "T-0001",
+      "T-0008",
+      "T-0011",
+      "T-0012",
+      "T-0014",
+      "T-0015",
+      "T-0023",
+      "T-0027",
+      "T-0028",
+      "T-0030",
+      "T-0031",
+      "T-0037",
+      "T-0041",
+      "T-0066",
+      "T-0069",
+      "T-0073",
+      "T-0081",
+      "T-0082",
+      "T-0083",
+      "T-0086",
+      "T-0089",
+      "T-0093",
+      "T-0096",
+      "T-0100",
+      "T-0113",
+      "T-0118",
+      "T-0122",
+      "T-0124",
+      "T-0126",
+      "T-0127",
+      "T-0131",
+      "T-0143",
+      "T-0145",
+      "T-0154",
+      "T-0155",
+      "T-0163",
+      "T-0165",
+      "T-0166",
+      "T-0170",
+      "T-0174",
+      "T-0177",
+      "T-0178",
+      "T-0180",
+      "T-0181",
+      "T-0184",
+      "T-0187",
+      "T-0192",
+      "T-0194",
+      "T-0195",
+      "T-0199"
+    ],
+    "problems": [
+      {
+        "id": "P1",
+        "title": "Appointment reminders arrive late or at the wrong time",
+        "expected_rank": 1,
+        "expected_count": 30,
+        "found": false,
+        "best_share": 0.433,
+        "matched_rank": null,
+        "covered": true,
+        "covered_share": 1.0,
+        "split_into": [
+          3,
+          8,
+          12
+        ]
+      },
+      {
+        "id": "P2",
+        "title": "No way to reschedule; cancelling to rebook loses the slot",
+        "expected_rank": 2,
+        "expected_count": 22,
+        "found": true,
+        "best_share": 1.0,
+        "matched_rank": 1,
+        "covered": true,
+        "covered_share": 1.0,
+        "split_into": []
+      },
+      {
+        "id": "P3",
+        "title": "Payment charged twice when the app times out at checkout",
+        "expected_rank": 3,
+        "expected_count": 18,
+        "found": true,
+        "best_share": 0.556,
+        "matched_rank": 5,
+        "covered": true,
+        "covered_share": 1.0,
+        "split_into": [
+          5,
+          10
+        ]
+      },
+      {
+        "id": "P4",
+        "title": "Doctor search ignores the language-spoken filter",
+        "expected_rank": 4,
+        "expected_count": 14,
+        "found": true,
+        "best_share": 1.0,
+        "matched_rank": 2,
+        "covered": true,
+        "covered_share": 1.0,
+        "split_into": []
+      },
+      {
+        "id": "P5",
+        "title": "Can't book for family members from one account",
+        "expected_rank": 5,
+        "expected_count": 10,
+        "found": true,
+        "best_share": 1.0,
+        "matched_rank": 6,
+        "covered": true,
+        "covered_share": 1.0,
+        "split_into": []
+      },
+      {
+        "id": "P6",
+        "title": "Video consult link fails on Android in-app browser",
+        "expected_rank": 6,
+        "expected_count": 8,
+        "found": true,
+        "best_share": 1.0,
+        "matched_rank": 11,
+        "covered": true,
+        "covered_share": 1.0,
+        "split_into": []
+      },
+      {
+        "id": "P7",
+        "title": "Prescription PDF downloads blank or won't open",
+        "expected_rank": 7,
+        "expected_count": 6,
+        "found": true,
+        "best_share": 1.0,
+        "matched_rank": 13,
+        "covered": true,
+        "covered_share": 1.0,
+        "split_into": []
+      },
+      {
+        "id": "P8",
+        "title": "Clinic staff can't see notes patients add when booking",
+        "expected_rank": 8,
+        "expected_count": 4,
+        "found": true,
+        "best_share": 1.0,
+        "matched_rank": 16,
+        "covered": true,
+        "covered_share": 1.0,
+        "split_into": []
+      }
+    ]
+  },
+  "problems": [
+    {
+      "title": "No reschedule option; cancelling loses the slot",
+      "description": "The only way to change an appointment is to cancel and rebook. Slots are often gone by then, and users must refill the whole form each time.",
+      "persona": "Patient needing to change appointment time, including shift workers",
+      "severity": "high",
+      "evidence_ids": [
+        "T-0035",
+        "T-0007",
+        "T-0029",
+        "T-0172",
+        "T-0153",
+        "T-0004",
+        "T-0072",
+        "T-0104",
+        "T-0034",
+        "T-0103",
+        "T-0059",
+        "T-0171",
+        "T-0169",
+        "T-0063",
+        "T-0056",
+        "T-0183",
+        "T-0043",
+        "T-0160",
+        "T-0051",
+        "T-0102",
+        "T-0115",
+        "T-0079"
+      ]
+    },
+    {
+      "title": "Language filter ignored in doctor search",
+      "description": "The language filter doesn't change results, so doctors who don't speak the chosen language are shown. Patients have booked doctors they couldn't talk to.",
+      "persona": "Patient needing a doctor who speaks their language, or booking for a relative",
+      "severity": "high",
+      "evidence_ids": [
+        "T-0048",
+        "T-0052",
+        "T-0044",
+        "T-0088",
+        "T-0185",
+        "T-0190",
+        "T-0091",
+        "T-0109",
+        "T-0061",
+        "T-0033",
+        "T-0129",
+        "T-0135",
+        "T-0111",
+        "T-0120"
+      ]
+    },
+    {
+      "title": "SMS reminders arrive after appointment, causing unfair no-show fees",
+      "description": "SMS reminders are sent about an hour after the appointment start, so patients miss the visit and are then charged a no-show fee. Affected patients ask for refunds.",
+      "persona": "Patient booking clinic appointments",
+      "severity": "high",
+      "evidence_ids": [
+        "T-0019",
+        "T-0062",
+        "T-0136",
+        "T-0119",
+        "T-0106",
+        "T-0125",
+        "T-0134",
+        "T-0130",
+        "T-0114",
+        "T-0158",
+        "T-0101",
+        "T-0032",
+        "T-0094"
+      ]
+    },
+    {
+      "title": "Clinic details missing: hours, parking, insurance",
+      "description": "The app doesn't show clinic opening hours, parking or accepted insurance. Users have to ask support.",
+      "persona": "Patient choosing or visiting a clinic",
+      "severity": "low",
+      "evidence_ids": [
+        "T-0187",
+        "T-0199",
+        "T-0100",
+        "T-0030",
+        "T-0015",
+        "T-0195",
+        "T-0192",
+        "T-0012",
+        "T-0194",
+        "T-0073",
+        "T-0174",
+        "T-0124",
+        "T-0113"
+      ]
+    },
+    {
+      "title": "Duplicate charges after payment error or frozen screen",
+      "description": "After a payment error or frozen screen, users retry and are charged twice for one consultation. They need refunds for the duplicate.",
+      "persona": "Patient paying for a consultation",
+      "severity": "critical",
+      "evidence_ids": [
+        "T-0022",
+        "T-0018",
+        "T-0045",
+        "T-0107",
+        "T-0108",
+        "T-0150",
+        "T-0137",
+        "T-0193",
+        "T-0098",
+        "T-0188"
+      ]
+    },
+    {
+      "title": "Cannot book or manage appointments for family members",
+      "description": "Users can't book for a spouse or child, and the clinic gets the booker's name. Caregivers managing parents must switch between separate accounts.",
+      "persona": "Parent or caregiver booking for family members",
+      "severity": "high",
+      "evidence_ids": [
+        "T-0003",
+        "T-0067",
+        "T-0038",
+        "T-0013",
+        "T-0002",
+        "T-0133",
+        "T-0123",
+        "T-0078",
+        "T-0148",
+        "T-0196"
+      ]
+    },
+    {
+      "title": "Can't find itemised receipt or upload referral letter",
+      "description": "Users can't find where to get an itemised receipt for employer claims or where to upload a GP referral letter.",
+      "persona": "Patient with a claim or referral",
+      "severity": "low",
+      "evidence_ids": [
+        "T-0083",
+        "T-0165",
+        "T-0069",
+        "T-0163",
+        "T-0086",
+        "T-0008",
+        "T-0093",
+        "T-0178",
+        "T-0166",
+        "T-0001"
+      ]
+    },
+    {
+      "title": "Reminder time wrong or late, possibly time zone handling",
+      "description": "Reminder texts show a different time than the app, and for travelers reminders come late, apparently because of time zone handling. Users don't know which time is right.",
+      "persona": "Patient with upcoming appointment, including those who travel between cities",
+      "severity": "high",
+      "evidence_ids": [
+        "T-0139",
+        "T-0162",
+        "T-0006",
+        "T-0040",
+        "T-0151",
+        "T-0055",
+        "T-0198",
+        "T-0064",
+        "T-0057"
+      ]
+    },
+    {
+      "title": "No dark mode; white screen harsh at night",
+      "description": "Users ask for a dark mode because the bright white screen is harsh at night.",
+      "persona": "Night-time app user",
+      "severity": "low",
+      "evidence_ids": [
+        "T-0014",
+        "T-0177",
+        "T-0096",
+        "T-0181",
+        "T-0126",
+        "T-0031",
+        "T-0037",
+        "T-0145",
+        "T-0023"
+      ]
+    },
+    {
+      "title": "Checkout times out on mobile data but money is taken",
+      "description": "Checkout spins forever and fails on mobile data, yet the payment is taken. Users hit this repeatedly.",
+      "persona": "Patient paying on mobile data",
+      "severity": "critical",
+      "evidence_ids": [
+        "T-0186",
+        "T-0156",
+        "T-0092",
+        "T-0095",
+        "T-0087",
+        "T-0168",
+        "T-0090",
+        "T-0050"
+      ]
+    },
+    {
+      "title": "Video consult fails to open on Android",
+      "description": "On Android phones the video consult page shows a spinner, a blank screen, or endless camera permission prompts. Patients can't join and must phone the clinic.",
+      "persona": "Android patient joining a teleconsult",
+      "severity": "high",
+      "evidence_ids": [
+        "T-0105",
+        "T-0144",
+        "T-0176",
+        "T-0140",
+        "T-0053",
+        "T-0182",
+        "T-0164",
+        "T-0036"
+      ]
+    },
+    {
+      "title": "Push notifications for appointments arrive the next morning",
+      "description": "Push notifications about appointments are delivered the next morning, making them useless for the appointment.",
+      "persona": "Patient relying on push notifications",
+      "severity": "medium",
+      "evidence_ids": [
+        "T-0058",
+        "T-0116",
+        "T-0112",
+        "T-0147",
+        "T-0060",
+        "T-0167",
+        "T-0117",
+        "T-0084"
+      ]
+    },
+    {
+      "title": "Prescription PDF blank or download does nothing",
+      "description": "Prescriptions either download as blank PDFs or the download button does nothing, so patients can't get them to the pharmacy.",
+      "persona": "Patient needing a prescription from a visit",
+      "severity": "high",
+      "evidence_ids": [
+        "T-0021",
+        "T-0173",
+        "T-0197",
+        "T-0099",
+        "T-0049",
+        "T-0146"
+      ]
+    },
+    {
+      "title": "App loading slowly",
+      "description": "Several users report the app loading slowly and ask whether there is an outage.",
+      "persona": "General app user",
+      "severity": "low",
+      "evidence_ids": [
+        "T-0118",
+        "T-0066",
+        "T-0155",
+        "T-0170",
+        "T-0143",
+        "T-0081"
+      ]
+    },
+    {
+      "title": "Password reset email never arrives",
+      "description": "Users can't log in because the reset email never arrives, even after checking spam.",
+      "persona": "Patient locked out of account",
+      "severity": "high",
+      "evidence_ids": [
+        "T-0082",
+        "T-0122",
+        "T-0184",
+        "T-0027",
+        "T-0041"
+      ]
+    },
+    {
+      "title": "Booking notes (allergies, accessibility) never reach the clinic",
+      "description": "Clinics don't see the notes patients add when booking. Allergy and wheelchair access information is missed.",
+      "persona": "Patient with medical or accessibility needs",
+      "severity": "high",
+      "evidence_ids": [
+        "T-0071",
+        "T-0039",
+        "T-0046",
+        "T-0152"
+      ]
+    },
+    {
+      "title": "WELCOME10 promo code rejected as invalid",
+      "description": "Users report the WELCOME10 promo code always says invalid.",
+      "persona": "New user applying a promo code",
+      "severity": "medium",
+      "evidence_ids": [
+        "T-0180",
+        "T-0028",
+        "T-0089",
+        "T-0131"
+      ]
+    },
+    {
+      "title": "Wrong clinic map pin location",
+      "description": "The map pin for some clinics is on the wrong street, which could send patients to the wrong place.",
+      "persona": "Patient navigating to a clinic",
+      "severity": "medium",
+      "evidence_ids": [
+        "T-0127",
+        "T-0154",
+        "T-0011"
+      ]
+    }
+  ]
+}

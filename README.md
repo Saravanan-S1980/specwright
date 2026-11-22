@@ -27,9 +27,11 @@ Structured output, embeddings, hybrid RAG, tool use, agent loops, multi-agent or
 
 Quality is measured, not assumed. The first golden dataset is 200 synthetic support tickets for a fictional clinic-booking app, with 8 problems planted at known frequencies. The synthesis stage is scored on how many it finds.
 
-| Version | Planted problems found | Date |
-| --- | --- | --- |
-| v0 baseline | _pending_ | |
+| Version | Found (one problem matches 50%+) | Covered (all problems together cite 50%+) | Noise tickets cited | Cost | Date |
+| --- | --- | --- | --- | --- | --- |
+| v0 baseline (`synthesize_v1`, Sonnet 5.5) | 7 of 8 | 8 of 8 | 50 of 88 | $0.07 | 2026-11-22 |
+
+Run it with `python evals/run_evals.py`. Reports land in `evals/results/`.
 
 ## Run it
 
