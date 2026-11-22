@@ -1,0 +1,183 @@
+{
+  "dataset": "clinic_tickets_v1",
+  "total_tickets": 200,
+  "noise_tickets": 88,
+  "problems": [
+    {
+      "id": "P1",
+      "title": "Appointment reminders arrive late or at the wrong time",
+      "expected_count": 30,
+      "severity": "high",
+      "ticket_ids": [
+        "T-0006",
+        "T-0019",
+        "T-0032",
+        "T-0040",
+        "T-0055",
+        "T-0057",
+        "T-0058",
+        "T-0060",
+        "T-0062",
+        "T-0064",
+        "T-0084",
+        "T-0094",
+        "T-0101",
+        "T-0106",
+        "T-0112",
+        "T-0114",
+        "T-0116",
+        "T-0117",
+        "T-0119",
+        "T-0125",
+        "T-0130",
+        "T-0134",
+        "T-0136",
+        "T-0139",
+        "T-0147",
+        "T-0151",
+        "T-0158",
+        "T-0162",
+        "T-0167",
+        "T-0198"
+      ]
+    },
+    {
+      "id": "P2",
+      "title": "No way to reschedule; cancelling to rebook loses the slot",
+      "expected_count": 22,
+      "severity": "high",
+      "ticket_ids": [
+        "T-0004",
+        "T-0007",
+        "T-0029",
+        "T-0034",
+        "T-0035",
+        "T-0043",
+        "T-0051",
+        "T-0056",
+        "T-0059",
+        "T-0063",
+        "T-0072",
+        "T-0079",
+        "T-0102",
+        "T-0103",
+        "T-0104",
+        "T-0115",
+        "T-0153",
+        "T-0160",
+        "T-0169",
+        "T-0171",
+        "T-0172",
+        "T-0183"
+      ]
+    },
+    {
+      "id": "P3",
+      "title": "Payment charged twice when the app times out at checkout",
+      "expected_count": 18,
+      "severity": "critical",
+      "ticket_ids": [
+        "T-0018",
+        "T-0022",
+        "T-0045",
+        "T-0050",
+        "T-0087",
+        "T-0090",
+        "T-0092",
+        "T-0095",
+        "T-0098",
+        "T-0107",
+        "T-0108",
+        "T-0137",
+        "T-0150",
+        "T-0156",
+        "T-0168",
+        "T-0186",
+        "T-0188",
+        "T-0193"
+      ]
+    },
+    {
+      "id": "P4",
+      "title": "Doctor search ignores the language-spoken filter",
+      "expected_count": 14,
+      "severity": "medium",
+      "ticket_ids": [
+        "T-0033",
+        "T-0044",
+        "T-0048",
+        "T-0052",
+        "T-0061",
+        "T-0088",
+        "T-0091",
+        "T-0109",
+        "T-0111",
+        "T-0120",
+        "T-0129",
+        "T-0135",
+        "T-0185",
+        "T-0190"
+      ]
+    },
+    {
+      "id": "P5",
+      "title": "Can't book for family members from one account",
+      "expected_count": 10,
+      "severity": "medium",
+      "ticket_ids": [
+        "T-0002",
+        "T-0003",
+        "T-0013",
+        "T-0038",
+        "T-0067",
+        "T-0078",
+        "T-0123",
+        "T-0133",
+        "T-0148",
+        "T-0196"
+      ]
+    },
+    {
+      "id": "P6",
+      "title": "Video consult link fails on Android in-app browser",
+      "expected_count": 8,
+      "severity": "high",
+      "ticket_ids": [
+        "T-0036",
+        "T-0053",
+        "T-0105",
+        "T-0140",
+        "T-0144",
+        "T-0164",
+        "T-0176",
+        "T-0182"
+      ]
+    },
+    {
+      "id": "P7",
+      "title": "Prescription PDF downloads blank or won't open",
+      "expected_count": 6,
+      "severity": "medium",
+      "ticket_ids": [
+        "T-0021",
+        "T-0049",
+        "T-0099",
+        "T-0146",
+        "T-0173",
+        "T-0197"
+      ]
+    },
+    {
+      "id": "P8",
+      "title": "Clinic staff can't see notes patients add when booking",
+      "expected_count": 4,
+      "severity": "medium",
+      "ticket_ids": [
+        "T-0039",
+        "T-0046",
+        "T-0071",
+        "T-0152"
+      ]
+    }
+  ]
+}

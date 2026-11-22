@@ -1,0 +1,201 @@
+ticket_id,created_at,channel,subject,body
+T-0035,2026-09-03T13:00,in-app chat,Lost my slot,Cancelled my 2:45 PM booking to pick a new time and by then all slots at Greenfield Dental were gone for 4 weeks. Please add a reschedule button.
+T-0082,2026-09-03T18:00,email,Forgot password,"I can't log in, reset email never arrives. Checked spam."
+T-0019,2026-09-03T23:00,in-app chat,Reminder came after my appointment,Got the SMS reminder for my 10:15 AM slot with Dr. Alvarez about an hour AFTER the appointment. Missed it and got charged a no-show fee.
+T-0159,2026-09-04T00:00,email,Delete my account,Please delete my account and data.
+T-0021,2026-09-04T07:00,in-app chat,Prescription is blank,Dr. Mehta said the prescription is in the app. The PDF downloads but every page is blank.
+T-0014,2026-09-04T22:00,app store review,Dark mode please,Would love a dark mode. The white screen is harsh at night.
+T-0186,2026-09-04T22:00,app store review,Payment timeout,"Checkout spins forever on mobile data then fails, but money is gone. This happened 2 times."
+T-0139,2026-09-05T04:00,email,Wrong time in reminder,The reminder text says my visit at Lakeview Family Clinic is at a different time than what the app shows. Which one is right??
+T-0083,2026-09-05T05:00,app store review,Receipt for claim,Where can I find an itemised receipt for my employer claim?
+T-0118,2026-09-05T11:00,email,App slow today,Everything is loading slowly today. Is there an outage?
+T-0156,2026-09-05T17:00,phone (transcribed),Payment timeout,"Checkout spins forever on mobile data then fails, but money is gone. This happened 3 times."
+T-0197,2026-09-05T19:00,email,Cannot download prescription,Pharmacy needs the prescription from my visit at Lakeview Family Clinic. Download button does nothing.
+T-0165,2026-09-06T15:00,in-app chat,Receipt for claim,Where can I find an itemised receipt for my employer claim?
+T-0048,2026-09-06T20:00,app store review,Search filters broken,Language filter seems to do nothing. Results are identical with or without it.
+T-0058,2026-09-06T22:00,app store review,Notification delay,Push notification for my appointment with Dr. Mehta came the next morning. Useless.
+T-0022,2026-09-07T01:00,in-app chat,Duplicate charge on my card,My bank statement shows the consultation fee twice on the same day. Only one appointment was booked.
+T-0092,2026-09-07T13:00,email,Payment timeout,"Checkout spins forever on mobile data then fails, but money is gone. This happened 5 times."
+T-0129,2026-09-07T14:00,phone (transcribed),Need doctor who speaks my language,Booked for my mother using the Hindi filter. The doctor at City Heart Centre only spoke English. She couldn't explain her symptoms.
+T-0017,2026-09-07T17:00,phone (transcribed),Thanks to Dr. Lindqvist,Dr. Alvarez was wonderful. Please pass on my thanks.
+T-0004,2026-09-08T01:00,phone (transcribed),How do I reschedule?,I need to move my appointment with Dr. Chen by a day. Only option is cancel. If I cancel will I lose my spot?
+T-0074,2026-09-08T01:00,app store review,Thanks to Dr. Rao,Dr. Chen was wonderful. Please pass on my thanks.
+T-0187,2026-09-08T01:00,app store review,Clinic hours,What time does Hillcrest Ortho close on Sundays?
+T-0008,2026-09-08T03:00,app store review,Referral letter,My GP gave me a referral letter. Where do I upload it?
+T-0003,2026-09-08T09:00,phone (transcribed),Book for someone else,"There's no way to book on behalf of my wife. The confirmation goes to me and the clinic has my name, not hers."
+T-0114,2026-09-09T00:00,phone (transcribed),No-show fee unfair,You charged me a no-show fee but your reminder arrived when I was supposed to already be at Hillcrest Ortho. Please refund.
+T-0105,2026-09-09T14:00,email,Video consult broken on Android,My husband's iPhone joins fine but my Android just shows a spinner on the video consult page.
+T-0122,2026-09-10T12:00,phone (transcribed),Forgot password,"I can't log in, reset email never arrives. Checked spam."
+T-0052,2026-09-11T16:00,in-app chat,Search filters broken,Language filter seems to do nothing. Results are identical with or without it.
+T-0069,2026-09-11T22:00,in-app chat,Receipt for claim,Where can I find an itemised receipt for my employer claim?
+T-0062,2026-09-12T00:00,app store review,Reminder came after my appointment,Got the SMS reminder for my 9:30 AM slot with Dr. Mehta about an hour AFTER the appointment. Missed it and got charged a no-show fee.
+T-0076,2026-09-12T00:00,app store review,Change phone number,I have a new number. How do I update it in my profile?
+T-0066,2026-09-12T06:00,in-app chat,App slow today,Everything is loading slowly today. Is there an outage?
+T-0133,2026-09-12T07:00,email,Family profiles,I manage appointments for both my parents. Logging in and out of three accounts is exhausting. Please add family members.
+T-0067,2026-09-12T08:00,phone (transcribed),Book for someone else,"There's no way to book on behalf of my wife. The confirmation goes to me and the clinic has my name, not hers."
+T-0099,2026-09-12T11:00,app store review,Cannot download prescription,Pharmacy needs the prescription from my visit at Greenfield Dental. Download button does nothing.
+T-0123,2026-09-12T18:00,app store review,Family profiles,I manage appointments for both my parents. Logging in and out of three accounts is exhausting. Please add family members.
+T-0043,2026-09-12T21:00,email,Rebooking is painful,Had to cancel and rebook 2 times this month because my shifts change. Each time I fill the whole form again.
+T-0140,2026-09-13T00:00,app store review,Can't join teleconsult,Video link opens inside the app and asks for camera permission forever. Had to call the clinic instead. Android 14.
+T-0192,2026-09-13T01:00,email,Parking info,Is there parking at Greenfield Dental? Would be nice to show in the app.
+T-0053,2026-09-13T04:00,in-app chat,Can't join teleconsult,Video link opens inside the app and asks for camera permission forever. Had to call the clinic instead. Android 14.
+T-0136,2026-09-13T15:00,in-app chat,Reminder came after my appointment,Got the SMS reminder for my 2:45 PM slot with Dr. Mehta about an hour AFTER the appointment. Missed it and got charged a no-show fee.
+T-0185,2026-09-13T19:00,app store review,Language filter not working,"I filtered for doctors who speak Tamil and it still shows everyone, including Dr. Mehta who doesn't."
+T-0158,2026-09-13T22:00,in-app chat,No-show fee unfair,You charged me a no-show fee but your reminder arrived when I was supposed to already be at Northside Pediatrics. Please refund.
+T-0142,2026-09-14T01:00,in-app chat,Rating a doctor,How do I leave a review for Dr. Mehta?
+T-0093,2026-09-14T19:00,phone (transcribed),Referral letter,My GP gave me a referral letter. Where do I upload it?
+T-0071,2026-09-15T03:00,app store review,Does the clinic read my notes?,I added my allergy details in the notes field. Dr. Mehta's assistant had no idea. What's the point of that field?
+T-0144,2026-09-15T04:00,phone (transcribed),Video consult broken on Android,My husband's iPhone joins fine but my Android just shows a spinner on the video consult page.
+T-0012,2026-09-15T13:00,phone (transcribed),Parking info,Is there parking at Greenfield Dental? Would be nice to show in the app.
+T-0157,2026-09-15T21:00,phone (transcribed),Rating a doctor,How do I leave a review for Dr. Alvarez?
+T-0080,2026-09-15T22:00,app store review,Delete my account,Please delete my account and data.
+T-0110,2026-09-17T12:00,in-app chat,Great app,Booked a visit at Riverside Skin Clinic in 2 minutes. Love it.
+T-0160,2026-09-17T14:00,email,Rebooking is painful,Had to cancel and rebook 4 times this month because my shifts change. Each time I fill the whole form again.
+T-0175,2026-09-17T17:00,in-app chat,Great app,Booked a visit at City Heart Centre in 2 minutes. Love it.
+T-0075,2026-09-18T02:00,app store review,Rating a doctor,How do I leave a review for Dr. Alvarez?
+T-0042,2026-09-18T09:00,email,Thanks to Dr. Okafor,Dr. Chen was wonderful. Please pass on my thanks.
+T-0190,2026-09-18T13:00,app store review,Language filter not working,"I filtered for doctors who speak Tamil and it still shows everyone, including Dr. Mehta who doesn't."
+T-0177,2026-09-20T12:00,app store review,Dark mode please,Would love a dark mode. The white screen is harsh at night.
+T-0072,2026-09-20T13:00,app store review,How do I reschedule?,I need to move my appointment with Dr. Alvarez by a day. Only option is cancel. If I cancel will I lose my spot?
+T-0116,2026-09-21T21:00,in-app chat,Notification delay,Push notification for my appointment with Dr. Lindqvist came the next morning. Useless.
+T-0194,2026-09-22T00:00,email,Parking info,Is there parking at Northside Pediatrics? Would be nice to show in the app.
+T-0104,2026-09-22T11:00,in-app chat,How do I reschedule?,I need to move my appointment with Dr. Alvarez by a day. Only option is cancel. If I cancel will I lose my spot?
+T-0108,2026-09-22T12:00,in-app chat,Double payment,"App said 'something went wrong' at checkout but my card was charged. Tried again, charged again. Need a refund for one."
+T-0034,2026-09-22T15:00,email,How do I reschedule?,I need to move my appointment with Dr. Rao by a day. Only option is cancel. If I cancel will I lose my spot?
+T-0038,2026-09-23T16:00,app store review,Booking for my child,I want to book a visit for my son at Riverside Skin Clinic but the form only takes my own details. Do I need a separate account for a 5 year old?
+T-0155,2026-09-23T23:00,in-app chat,App slow today,Everything is loading slowly today. Is there an outage?
+T-0103,2026-09-24T03:00,phone (transcribed),How do I reschedule?,I need to move my appointment with Dr. Alvarez by a day. Only option is cancel. If I cancel will I lose my spot?
+T-0016,2026-09-24T18:00,email,Rating a doctor,How do I leave a review for Dr. Alvarez?
+T-0176,2026-09-25T03:00,app store review,Video consult broken on Android,My husband's iPhone joins fine but my Android just shows a spinner on the video consult page.
+T-0119,2026-09-25T08:00,phone (transcribed),Reminder came after my appointment,Got the SMS reminder for my 6:00 PM slot with Dr. Alvarez about an hour AFTER the appointment. Missed it and got charged a no-show fee.
+T-0121,2026-09-25T17:00,email,Rating a doctor,How do I leave a review for Dr. Mehta?
+T-0182,2026-09-25T21:00,email,Video call won't open,Tapped 'Join video consult' for my 11:00 AM appointment and got a blank screen. Using a Samsung phone.
+T-0178,2026-09-25T23:00,in-app chat,Referral letter,My GP gave me a referral letter. Where do I upload it?
+T-0106,2026-09-26T02:00,phone (transcribed),Reminder came after my appointment,Got the SMS reminder for my 4:30 PM slot with Dr. Okafor about an hour AFTER the appointment. Missed it and got charged a no-show fee.
+T-0091,2026-09-26T17:00,phone (transcribed),Language filter not working,"I filtered for doctors who speak Tamil and it still shows everyone, including Dr. Lindqvist who doesn't."
+T-0049,2026-09-26T22:00,in-app chat,Cannot download prescription,Pharmacy needs the prescription from my visit at City Heart Centre. Download button does nothing.
+T-0070,2026-09-27T06:00,in-app chat,Great app,Booked a visit at City Heart Centre in 2 minutes. Love it.
+T-0010,2026-09-27T11:00,phone (transcribed),Delete my account,Please delete my account and data.
+T-0097,2026-09-28T00:00,app store review,Rating a doctor,How do I leave a review for Dr. Alvarez?
+T-0170,2026-09-28T02:00,in-app chat,App slow today,Everything is loading slowly today. Is there an outage?
+T-0180,2026-09-28T09:00,phone (transcribed),Promo code not working,The WELCOME10 code says invalid.
+T-0101,2026-09-28T13:00,in-app chat,No-show fee unfair,You charged me a no-show fee but your reminder arrived when I was supposed to already be at Riverside Skin Clinic. Please refund.
+T-0007,2026-09-28T17:00,email,Lost my slot,Cancelled my 2:45 PM booking to pick a new time and by then all slots at Riverside Skin Clinic were gone for 2 weeks. Please add a reschedule button.
+T-0109,2026-09-29T06:00,app store review,Language filter not working,"I filtered for doctors who speak Tamil and it still shows everyone, including Dr. Chen who doesn't."
+T-0143,2026-09-29T07:00,app store review,App slow today,Everything is loading slowly today. Is there an outage?
+T-0135,2026-09-30T06:00,app store review,Need doctor who speaks my language,Booked for my mother using the Hindi filter. The doctor at City Heart Centre only spoke English. She couldn't explain her symptoms.
+T-0096,2026-09-30T08:00,in-app chat,Dark mode please,Would love a dark mode. The white screen is harsh at night.
+T-0098,2026-09-30T19:00,phone (transcribed),Charged twice,"The payment screen froze, I tapped pay again and now I see two charges for the same consult at Greenfield Dental."
+T-0181,2026-10-01T02:00,app store review,Dark mode please,Would love a dark mode. The white screen is harsh at night.
+T-0013,2026-10-01T07:00,phone (transcribed),Booking for my child,I want to book a visit for my son at Hillcrest Ortho but the form only takes my own details. Do I need a separate account for a 4 year old?
+T-0055,2026-10-02T03:00,app store review,Reminder timing is off,Reminders keep showing up late. I travel between cities and I think it's using the wrong time zone.
+T-0051,2026-10-02T04:00,in-app chat,Rebooking is painful,Had to cancel and rebook 4 times this month because my shifts change. Each time I fill the whole form again.
+T-0024,2026-10-02T05:00,phone (transcribed),Delete my account,Please delete my account and data.
+T-0128,2026-10-02T06:00,app store review,Change phone number,I have a new number. How do I update it in my profile?
+T-0018,2026-10-02T08:00,in-app chat,Duplicate charge on my card,My bank statement shows the consultation fee twice on the same day. Only one appointment was booked.
+T-0124,2026-10-02T13:00,phone (transcribed),Insurance question,Does Greenfield Dental accept my insurance? The app doesn't say.
+T-0125,2026-10-02T13:00,email,Reminder came after my appointment,Got the SMS reminder for my 6:00 PM slot with Dr. Mehta about an hour AFTER the appointment. Missed it and got charged a no-show fee.
+T-0002,2026-10-02T16:00,app store review,Booking for my child,I want to book a visit for my son at Northside Pediatrics but the form only takes my own details. Do I need a separate account for a 3 year old?
+T-0150,2026-10-02T18:00,app store review,Double payment,"App said 'something went wrong' at checkout but my card was charged. Tried again, charged again. Need a refund for one."
+T-0028,2026-10-02T23:00,app store review,Promo code not working,The WELCOME10 code says invalid.
+T-0134,2026-10-04T22:00,app store review,Reminder came after my appointment,Got the SMS reminder for my 10:15 AM slot with Dr. Rao about an hour AFTER the appointment. Missed it and got charged a no-show fee.
+T-0184,2026-10-05T00:00,app store review,Forgot password,"I can't log in, reset email never arrives. Checked spam."
+T-0032,2026-10-05T07:00,app store review,No-show fee unfair,You charged me a no-show fee but your reminder arrived when I was supposed to already be at Hillcrest Ortho. Please refund.
+T-0059,2026-10-05T07:00,phone (transcribed),How do I reschedule?,I need to move my appointment with Dr. Lindqvist by a day. Only option is cancel. If I cancel will I lose my spot?
+T-0126,2026-10-05T12:00,email,Dark mode please,Would love a dark mode. The white screen is harsh at night.
+T-0061,2026-10-06T06:00,email,Language filter not working,"I filtered for doctors who speak Tamil and it still shows everyone, including Dr. Alvarez who doesn't."
+T-0164,2026-10-06T08:00,phone (transcribed),Video call won't open,Tapped 'Join video consult' for my 9:30 AM appointment and got a blank screen. Using a Samsung phone.
+T-0163,2026-10-06T13:00,in-app chat,Receipt for claim,Where can I find an itemised receipt for my employer claim?
+T-0198,2026-10-06T14:00,app store review,Reminder timing is off,Reminders keep showing up late. I travel between cities and I think it's using the wrong time zone.
+T-0094,2026-10-06T19:00,phone (transcribed),No-show fee unfair,You charged me a no-show fee but your reminder arrived when I was supposed to already be at Greenfield Dental. Please refund.
+T-0152,2026-10-06T21:00,app store review,Notes ignored,I wrote in the booking notes that I need wheelchair access. The receptionist at Hillcrest Ortho said they never see those notes.
+T-0162,2026-10-07T01:00,in-app chat,Wrong time in reminder,The reminder text says my visit at Lakeview Family Clinic is at a different time than what the app shows. Which one is right??
+T-0161,2026-10-08T23:00,app store review,Thanks to Dr. Chen,Dr. Chen was wonderful. Please pass on my thanks.
+T-0188,2026-10-09T01:00,app store review,Charged twice,"The payment screen froze, I tapped pay again and now I see two charges for the same consult at Northside Pediatrics."
+T-0029,2026-10-09T05:00,email,Lost my slot,Cancelled my 10:15 AM booking to pick a new time and by then all slots at City Heart Centre were gone for 5 weeks. Please add a reschedule button.
+T-0045,2026-10-09T07:00,email,Duplicate charge on my card,My bank statement shows the consultation fee twice on the same day. Only one appointment was booked.
+T-0039,2026-10-09T09:00,in-app chat,Does the clinic read my notes?,I added my allergy details in the notes field. Dr. Okafor's assistant had no idea. What's the point of that field?
+T-0064,2026-10-09T17:00,phone (transcribed),Reminder timing is off,Reminders keep showing up late. I travel between cities and I think it's using the wrong time zone.
+T-0044,2026-10-09T21:00,in-app chat,Search filters broken,Language filter seems to do nothing. Results are identical with or without it.
+T-0171,2026-10-10T13:00,app store review,How do I reschedule?,I need to move my appointment with Dr. Mehta by a day. Only option is cancel. If I cancel will I lose my spot?
+T-0095,2026-10-10T23:00,in-app chat,Payment timeout,"Checkout spins forever on mobile data then fails, but money is gone. This happened 4 times."
+T-0102,2026-10-11T03:00,email,Rebooking is painful,Had to cancel and rebook 4 times this month because my shifts change. Each time I fill the whole form again.
+T-0056,2026-10-11T05:00,in-app chat,Reschedule option missing,Every other booking app lets you change the time. Why do I have to cancel and start over?
+T-0199,2026-10-11T15:00,email,Clinic hours,What time does Hillcrest Ortho close on Sundays?
+T-0141,2026-10-11T18:00,phone (transcribed),Thanks to Dr. Lindqvist,Dr. Lindqvist was wonderful. Please pass on my thanks.
+T-0149,2026-10-11T20:00,email,Change phone number,I have a new number. How do I update it in my profile?
+T-0189,2026-10-12T05:00,in-app chat,Change phone number,I have a new number. How do I update it in my profile?
+T-0089,2026-10-12T13:00,in-app chat,Promo code not working,The WELCOME10 code says invalid.
+T-0054,2026-10-13T11:00,email,Change phone number,I have a new number. How do I update it in my profile?
+T-0113,2026-10-13T18:00,email,Insurance question,Does Hillcrest Ortho accept my insurance? The app doesn't say.
+T-0087,2026-10-13T19:00,app store review,Payment timeout,"Checkout spins forever on mobile data then fails, but money is gone. This happened 3 times."
+T-0111,2026-10-13T20:00,phone (transcribed),Need doctor who speaks my language,Booked for my mother using the Hindi filter. The doctor at Lakeview Family Clinic only spoke English. She couldn't explain her symptoms.
+T-0112,2026-10-13T21:00,app store review,Notification delay,Push notification for my appointment with Dr. Chen came the next morning. Useless.
+T-0036,2026-10-13T22:00,phone (transcribed),Video call won't open,Tapped 'Join video consult' for my 4:30 PM appointment and got a blank screen. Using a Samsung phone.
+T-0138,2026-10-14T00:00,email,Change phone number,I have a new number. How do I update it in my profile?
+T-0068,2026-10-14T05:00,email,Great app,Booked a visit at Greenfield Dental in 2 minutes. Love it.
+T-0078,2026-10-14T05:00,in-app chat,Family profiles,I manage appointments for both my parents. Logging in and out of three accounts is exhausting. Please add family members.
+T-0130,2026-10-14T08:00,phone (transcribed),Reminder came after my appointment,Got the SMS reminder for my 2:45 PM slot with Dr. Okafor about an hour AFTER the appointment. Missed it and got charged a no-show fee.
+T-0115,2026-10-14T11:00,phone (transcribed),Rebooking is painful,Had to cancel and rebook 3 times this month because my shifts change. Each time I fill the whole form again.
+T-0147,2026-10-14T14:00,phone (transcribed),Notification delay,Push notification for my appointment with Dr. Alvarez came the next morning. Useless.
+T-0100,2026-10-15T06:00,email,Clinic hours,What time does Northside Pediatrics close on Sundays?
+T-0073,2026-10-15T14:00,app store review,Parking info,Is there parking at City Heart Centre? Would be nice to show in the app.
+T-0166,2026-10-15T14:00,in-app chat,Referral letter,My GP gave me a referral letter. Where do I upload it?
+T-0060,2026-10-16T04:00,phone (transcribed),Notification delay,Push notification for my appointment with Dr. Okafor came the next morning. Useless.
+T-0169,2026-10-16T04:00,phone (transcribed),How do I reschedule?,I need to move my appointment with Dr. Alvarez by a day. Only option is cancel. If I cancel will I lose my spot?
+T-0031,2026-10-16T12:00,app store review,Dark mode please,Would love a dark mode. The white screen is harsh at night.
+T-0006,2026-10-17T21:00,app store review,Wrong time in reminder,The reminder text says my visit at Northside Pediatrics is at a different time than what the app shows. Which one is right??
+T-0172,2026-10-17T22:00,app store review,Lost my slot,Cancelled my 10:15 AM booking to pick a new time and by then all slots at Hillcrest Ortho were gone for 4 weeks. Please add a reschedule button.
+T-0131,2026-10-18T06:00,app store review,Promo code not working,The WELCOME10 code says invalid.
+T-0167,2026-10-19T04:00,app store review,Notification delay,Push notification for my appointment with Dr. Alvarez came the next morning. Useless.
+T-0037,2026-10-19T06:00,email,Dark mode please,Would love a dark mode. The white screen is harsh at night.
+T-0191,2026-10-19T07:00,app store review,Delete my account,Please delete my account and data.
+T-0148,2026-10-19T08:00,app store review,Family profiles,I manage appointments for both my parents. Logging in and out of three accounts is exhausting. Please add family members.
+T-0081,2026-10-19T10:00,email,App slow today,Everything is loading slowly today. Is there an outage?
+T-0025,2026-10-19T17:00,email,Delete my account,Please delete my account and data.
+T-0127,2026-10-19T23:00,in-app chat,Wrong clinic address,The map pin for Northside Pediatrics is on the wrong street.
+T-0085,2026-10-20T03:00,phone (transcribed),Change phone number,I have a new number. How do I update it in my profile?
+T-0183,2026-10-20T06:00,phone (transcribed),Reschedule option missing,Every other booking app lets you change the time. Why do I have to cancel and start over?
+T-0030,2026-10-20T07:00,in-app chat,Clinic hours,What time does Riverside Skin Clinic close on Sundays?
+T-0117,2026-10-21T02:00,app store review,Notification delay,Push notification for my appointment with Dr. Mehta came the next morning. Useless.
+T-0079,2026-10-21T20:00,in-app chat,Rebooking is painful,Had to cancel and rebook 3 times this month because my shifts change. Each time I fill the whole form again.
+T-0146,2026-10-21T23:00,app store review,Cannot download prescription,Pharmacy needs the prescription from my visit at Riverside Skin Clinic. Download button does nothing.
+T-0154,2026-10-22T06:00,phone (transcribed),Wrong clinic address,The map pin for City Heart Centre is on the wrong street.
+T-0120,2026-10-22T07:00,phone (transcribed),Need doctor who speaks my language,Booked for my mother using the Hindi filter. The doctor at Hillcrest Ortho only spoke English. She couldn't explain her symptoms.
+T-0005,2026-10-22T17:00,in-app chat,Change phone number,I have a new number. How do I update it in my profile?
+T-0137,2026-10-22T17:00,phone (transcribed),Double payment,"App said 'something went wrong' at checkout but my card was charged. Tried again, charged again. Need a refund for one."
+T-0011,2026-10-22T18:00,phone (transcribed),Wrong clinic address,The map pin for Lakeview Family Clinic is on the wrong street.
+T-0026,2026-10-22T23:00,in-app chat,Delete my account,Please delete my account and data.
+T-0020,2026-10-23T04:00,phone (transcribed),Delete my account,Please delete my account and data.
+T-0174,2026-10-23T09:00,phone (transcribed),Parking info,Is there parking at Hillcrest Ortho? Would be nice to show in the app.
+T-0040,2026-10-23T13:00,app store review,Wrong time in reminder,The reminder text says my visit at Northside Pediatrics is at a different time than what the app shows. Which one is right??
+T-0057,2026-10-23T13:00,email,Reminder timing is off,Reminders keep showing up late. I travel between cities and I think it's using the wrong time zone.
+T-0077,2026-10-23T18:00,email,Thanks to Dr. Alvarez,Dr. Okafor was wonderful. Please pass on my thanks.
+T-0015,2026-10-23T19:00,phone (transcribed),Clinic hours,What time does Riverside Skin Clinic close on Sundays?
+T-0107,2026-10-23T20:00,phone (transcribed),Duplicate charge on my card,My bank statement shows the consultation fee twice on the same day. Only one appointment was booked.
+T-0193,2026-10-23T20:00,in-app chat,Double payment,"App said 'something went wrong' at checkout but my card was charged. Tried again, charged again. Need a refund for one."
+T-0145,2026-10-23T22:00,app store review,Dark mode please,Would love a dark mode. The white screen is harsh at night.
+T-0086,2026-10-24T01:00,email,Receipt for claim,Where can I find an itemised receipt for my employer claim?
+T-0132,2026-10-24T12:00,email,Rating a doctor,How do I leave a review for Dr. Mehta?
+T-0196,2026-10-25T18:00,in-app chat,Family profiles,I manage appointments for both my parents. Logging in and out of three accounts is exhausting. Please add family members.
+T-0088,2026-10-26T02:00,app store review,Search filters broken,Language filter seems to do nothing. Results are identical with or without it.
+T-0063,2026-10-26T03:00,email,How do I reschedule?,I need to move my appointment with Dr. Chen by a day. Only option is cancel. If I cancel will I lose my spot?
+T-0023,2026-10-26T09:00,app store review,Dark mode please,Would love a dark mode. The white screen is harsh at night.
+T-0033,2026-10-26T18:00,app store review,Language filter not working,"I filtered for doctors who speak Tamil and it still shows everyone, including Dr. Rao who doesn't."
+T-0084,2026-10-26T21:00,in-app chat,Notification delay,Push notification for my appointment with Dr. Rao came the next morning. Useless.
+T-0009,2026-10-27T17:00,app store review,Delete my account,Please delete my account and data.
+T-0168,2026-10-27T20:00,phone (transcribed),Payment timeout,"Checkout spins forever on mobile data then fails, but money is gone. This happened 4 times."
+T-0047,2026-10-28T07:00,app store review,Delete my account,Please delete my account and data.
+T-0195,2026-10-28T11:00,in-app chat,Clinic hours,What time does City Heart Centre close on Sundays?
+T-0151,2026-10-28T19:00,email,Wrong time in reminder,The reminder text says my visit at Riverside Skin Clinic is at a different time than what the app shows. Which one is right??
+T-0173,2026-10-29T00:00,app store review,Prescription is blank,Dr. Okafor said the prescription is in the app. The PDF downloads but every page is blank.
+T-0027,2026-10-29T06:00,phone (transcribed),Forgot password,"I can't log in, reset email never arrives. Checked spam."
+T-0065,2026-10-29T08:00,app store review,Delete my account,Please delete my account and data.
+T-0200,2026-10-29T11:00,in-app chat,Great app,Booked a visit at Hillcrest Ortho in 2 minutes. Love it.
+T-0046,2026-10-29T12:00,app store review,Does the clinic read my notes?,I added my allergy details in the notes field. Dr. Rao's assistant had no idea. What's the point of that field?
+T-0090,2026-10-29T18:00,phone (transcribed),Payment timeout,"Checkout spins forever on mobile data then fails, but money is gone. This happened 5 times."
+T-0153,2026-10-30T01:00,email,Lost my slot,Cancelled my 9:30 AM booking to pick a new time and by then all slots at City Heart Centre were gone for 2 weeks. Please add a reschedule button.
+T-0179,2026-10-30T05:00,phone (transcribed),Great app,Booked a visit at Riverside Skin Clinic in 2 minutes. Love it.
+T-0001,2026-10-30T09:00,phone (transcribed),Referral letter,My GP gave me a referral letter. Where do I upload it?
+T-0041,2026-10-30T13:00,phone (transcribed),Forgot password,"I can't log in, reset email never arrives. Checked spam."
+T-0050,2026-10-31T02:00,in-app chat,Payment timeout,"Checkout spins forever on mobile data then fails, but money is gone. This happened 2 times."
